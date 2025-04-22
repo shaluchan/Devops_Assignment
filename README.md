@@ -23,7 +23,8 @@ This project demonstrates a multi-stage Docker setup that:
 
 ### Clone the Repo
 ```bash
-git clone
+git clone https://github.com/shaluchan/Devops_Assignment.git
+cd Devops_Assignment
 ```
 
 ### 🛠️ Build the Docker Image with a Website to Scrape
