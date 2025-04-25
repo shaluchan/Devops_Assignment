@@ -79,4 +79,3 @@ docker run -p 5000:5000 web-scraper
 - The scraping only happens **at build time**, that's why build args are required.
 - The runtime container only hosts the pre-scraped data via Flask.
 - This setup keeps the final image lightweight and efficient.
-```
